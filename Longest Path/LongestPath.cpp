@@ -15,7 +15,7 @@
     PRE DP:
         ALL PATH equal 0
     TIME COMPLEXITY:
-        O(|S|*|T|)
+        O(|N| + |M|)
 */
 #include <bits/stdc++.h>
 using namespace std;
